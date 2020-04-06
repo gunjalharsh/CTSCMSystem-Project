@@ -11,7 +11,7 @@ Used Technologies :
                     2].MysQL Workbench
                     3].Google Chrome
                     4].Spirng framework
-                    5].Hibernate D
+                    5].Hibernate 
                     
  Spring Framework :
                     Layers:1] Controller Layer
